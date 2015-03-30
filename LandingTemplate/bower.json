@@ -1,0 +1,21 @@
+{
+  "name": "Responsive and Creative Mobile App Template",
+  "version": "1.0.0",
+  "authors": [
+    "edopolimac <edopolimac@gmail.com>"
+  ],
+  "description": "Responsive and Creative Mobile App Template",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "font-awesome": "~4.2.0",
+    "less": "~2.1.1"
+  }
+}

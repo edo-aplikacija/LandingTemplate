@@ -1,0 +1,13 @@
+{
+  "name": "LandingTemplate",
+  "version": "1.0.0",
+  "description": "LandingTemplate",
+  "main": "server.js",
+  "author": {
+    "name": "Edo Polimac",
+    "email": "edopolimac@gmail.com"
+  },
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}
